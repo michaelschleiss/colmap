@@ -37,7 +37,6 @@
 
 #include "FLANN/flann.hpp"
 #include "GL/glew.h"
-#endif
 #include "SiftGPU/SiftGPU.h"
 #include "VLFeat/covdet.h"
 #include "VLFeat/sift.h"
